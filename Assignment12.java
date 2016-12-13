@@ -1,6 +1,4 @@
 // Assignment #: 12
-//         Name: Vanessa Bedolla
-//    StudentID: 1204125606
 //      Lecture: 1
 //  Description: The Assignment 12 class creates a control panel and
 //               adds it as its Applet content and also sets its size.
