@@ -1,5 +1,3 @@
-//Vanessa Bedolla
-//1204125606
 //Lecture 1
 //Assignment 12
 //Description: The ball panel draws a ball that moves left to right or up and down, 
