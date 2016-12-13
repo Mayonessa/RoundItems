@@ -1,6 +1,4 @@
 // Assignment #: 12
-//         Name: Vanessa Bedolla
-//    StudentID: 1204125606
 //      Lecture: 1
 //  Description: The control panel creates the content for the applet, including two ball panels
 // and a way to control them using buttons and sliders.
